@@ -41,7 +41,7 @@ Clawed and pre-processed from [Google Trend](https://trends.google.com/trends/?g
 
 ## Twitter bipartite graph
 Clawed and pre-processed from [Twitter](https://twitter.com). We firstly collected 54 official accounts who have posted COVID19 related information. Then we claw top followers of them, and compute a "COVID attention score" for followers' counties. Counties are 391 in total. "COVID attention score" is computed as 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= $f(\mathcal{X}) = \sum_{i=1}^{N} e^{-x}$" style="border:none;">， where N here denotes the total number of the followers in a county, and x here denotes the average post interval of a follower's recent 20 (or less) posts. We directly use 0 to denote followers with only 1 post, and -1 to denote follower with no post.
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= $f(\mathcal{X}) = \sum_{i=1}^{N} e^{-x}$" style="border:none;">， where N here denotes the total number of the followers in a county, and x here denotes the average post interval of a follower's recent 20 (or less) posts. We directly use 0 to denote followers with only 1 post or with no post.
 
 
 
