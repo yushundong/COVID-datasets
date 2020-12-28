@@ -1,6 +1,6 @@
 # COVID-datasets
 
-Include 6 different datasets from different data sources (denoted below) for different research purposes.
+Include 6 different datasets from different data sources (denoted below) for different research purposes. Basically, the datasets include information from 391 different counties in USA at a fixed time or in a series of time periods.
 
 ## Confirmed cases across counties
 Clawed from [Johns Hopkins Cronavirus Resource Center](https://coronavirus.jhu.edu/map.html). Data includes confirmed cases and death from Feb. to Oct. as time series. County number is 391 in total.
