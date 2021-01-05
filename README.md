@@ -22,6 +22,8 @@ Clawed and pre-processed from [Google Trend](https://trends.google.com/trends/?g
 | N95 respirator | Vaccine  | Ventilator  |
 | Centers for Disease Control and Prevention  |  |  |
 
+————**Update Jan. 2021** Google Trend data of Nov. and Dec., 2020 has been uploaded.
+
 
 ## Population mobility across counties
 Clawed and pre-processed from [COVID19USFlows](https://github.com/GeoDS/COVID19USFlows). Counties are 391 in total, and mobility data is preserved from Feb. to Oct.  as time series.
