@@ -29,7 +29,7 @@ Clawed and pre-processed from [Google Trend](https://trends.google.com/trends/?g
 Clawed and pre-processed from [COVID19USFlows](https://github.com/GeoDS/COVID19USFlows). Counties are 391 in total, and mobility data is preserved from Feb. to Oct.  as time series.
 
 ## Toy dataset of Google Trend
-Clawed and pre-processed from [Google Trend](https://trends.google.com/trends/?geo=US). Counties are 391 in total. We utilize the popularity score of the corresponding state if the score of the specific countuy does not exist. Compared with **Google Trend topics across counties**, this is a small toy dataset, which only includes topics' populatity scores of a fixed time period (). Topics include 
+Clawed and pre-processed from [Google Trend](https://trends.google.com/trends/?geo=US). Counties are 391 in total. We utilize the popularity score of the corresponding state if the score of the specific countuy does not exist. Compared with **Google Trend topics across counties**, this is a small toy dataset, which only includes topics' populatity scores of a fixed time period (5/29/2020 - 6/28/2020). Topics include 
 | Topics     |Topics      |Topics      |
 | :----------: | :-----------:  | :-----------: |
 | covid     | mask    | epidemic   |
